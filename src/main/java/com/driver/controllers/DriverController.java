@@ -1,7 +1,5 @@
 package com.driver.controllers;
 
-package com.driver.controllers;
-
 import com.driver.services.DriverService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.HttpStatus;
